@@ -13,6 +13,7 @@ The differences:
 - DL based on the complex neural network like human brain to detect patterns and classify a large information
 
 3. After reading the artificial intelligence application scenarios in this chapter, please describe in detail a field of AI application and its scenarios in real life based on your own life experience
+
 AI was born to make our living standard to a higher level. To be more specific, online shopping is the best application of AI when we just stay at home, type the product name on the online shop, the system will classify by using an algorithm to find the best product for us. Besides, the app is optimized when it using AI to analysis all the product that we care and display all the relative items for us to choose with the affordable price.
 
 4. Which chip is for deep neural networks and Ascend AI processors. Please brief these four major modules.
